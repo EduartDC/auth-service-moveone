@@ -97,7 +97,6 @@ graph TD
     I --> J[🔄 UserEntityMapper]
     J --> K[🏛️ User Domain]
     K --> L[📋 LoginResponse]
-    L --> M[🎯 ResponseEntity]
     M --> N[📱 Cliente]
 ```
 
