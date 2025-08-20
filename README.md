@@ -210,12 +210,4 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) par
 
 ---
 
-## � Contacto
-
-**Desarrollador:** Eduardo DC  
-**Email:** eduar.dc@empresa.com  
-**GitHub:** [@EduartDC](https://github.com/EduartDC)
-
----
-
 _Desarrollado con ❤️ usando Arquitectura Hexagonal y principios de Clean Architecture_
